@@ -28,4 +28,5 @@ Summary of Findings:
 * 5 age groups were created (18-24,25-34,35-44,45-54,55-64). A large number of employees are between 35-44 while the smallest group was 55-64.
 * A large number of employees work at the headquarters versus remotely.
 * The gender distribution across departments is fairly balanced but there are generally more male than female employees.
-* The marketing department has the highest turnover rate followed by      
+* The marketing department has the highest turnover rate followed by training.
+* A large number of employees come from state of Ohio.      
